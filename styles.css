@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .code {
+    border: 2px solid;
+    height: fit-content;
+    background-color: azure;
+    border-radius: 20px;
+  }
